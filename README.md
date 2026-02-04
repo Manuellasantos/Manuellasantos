@@ -1,11 +1,11 @@
-# 🌸 Manuella Santos — Web Developer  
+#  Manuella Santos — Web Developer  
 
 Desenvolvedora web com paixão por tecnologia, design e criação de projetos que fazem diferença.  
 
 
 ---
 
-## 🌷 Tech Stack
+##  Tech Stack
 
 ### **Languages**
 ![JS](https://img.shields.io/badge/JavaScript-F7DFE3?style=for-the-badge&logo=javascript&logoColor=000)
@@ -28,26 +28,26 @@ Tecnologias: **HTML, CSS, JS**
 
 ---
 
-### 🩷 **Agendamento-SUS**
+###  **Agendamento-SUS**
 🔗 *Protótipo acessível para agendamento de consultas e serviços do SUS*  
 Tecnologias: **JavaScript, HTML, CSS**  
 ➡️ https://github.com/Manuellasantos/Agendamento-sus
 
 ---
 
-### 💛 **Nossas Cores — E-commerce**
+###  **Nossas Cores — E-commerce**
 🔗 *Loja fictícia simulando um pequeno e-commerce*  
 Tecnologias: **JavaScript, HTML, CSS**  
 ➡️ https://github.com/Manuellasantos/Nossas-Cores
 
 ---
 
-## ✨ GitHub Stats  
+##  GitHub Stats  
 ![Manu stats](https://github-readme-stats.vercel.app/api?username=Manuellasantos&show_icons=true&theme=rose_pine&icon_color=ff66a3&title_color=ff5fa2&text_color=ffb9d6)
 
 ---
 
-## 🌸 Atualmente Estudando
+## Atualmente Estudando
 - SQL
 - Python
 - Acessibilidade web  
@@ -56,7 +56,7 @@ Tecnologias: **JavaScript, HTML, CSS**
 
 ---
 
-## 🌼 Redes Sociais  
+##  Redes Sociais  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ff8dc7?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_AQUI)
 [![Instagram](https://img.shields.io/badge/Instagram-ff6fb0?style=for-the-badge&logo=instagram&logoColor=white)](SEU_LINK_AQUI)
