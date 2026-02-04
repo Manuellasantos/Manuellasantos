@@ -11,6 +11,7 @@ Desenvolvedora web com paixão por tecnologia, design e criação de projetos qu
 ![JS](https://img.shields.io/badge/JavaScript-F7DFE3?style=for-the-badge&logo=javascript&logoColor=000)
 ![HTML](https://img.shields.io/badge/HTML5-FFB7D1?style=for-the-badge&logo=html5&logoColor=fff)
 ![CSS](https://img.shields.io/badge/CSS3-FF85B3?style=for-the-badge&logo=css3&logoColor=fff)
+![Python](https://img.shields.io/badge/Python-FFB6C1?style=for-the-badge&logo=python&logoColor=000)
 
 ### **Tools**
 ![Git](https://img.shields.io/badge/Git-FF9BCF?style=for-the-badge&logo=git&logoColor=fff)
@@ -57,9 +58,9 @@ Tecnologias: **JavaScript, HTML, CSS**
 ---
 
 ##  Redes Sociais  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ff8dc7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manu-cruz-8439332b6/)
+[![Instagram](https://img.shields.io/badge/Instagram-ff6fb0?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_manusantoscz/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ff8dc7?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_AQUI)
-[![Instagram](https://img.shields.io/badge/Instagram-ff6fb0?style=for-the-badge&logo=instagram&logoColor=white)](SEU_LINK_AQUI)
 
 ---
 
