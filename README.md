@@ -23,28 +23,28 @@ Desenvolvedora web com paixão por tecnologia, design e criação de projetos qu
 ## 📁 **Projetos Principais**
 
 ### 💜 **Memória Viva — Website**
-🔗 *Website institucional apresentando proposta e funcionalidades*  
+ *Website institucional apresentando proposta e funcionalidades*  
 Tecnologias: **HTML, CSS, JS**  
-➡️ https://github.com/Manuellasantos/website-memoria-viva
+ https://github.com/Manuellasantos/website-memoria-viva
 
 ---
 
 ###  **Agendamento-SUS**
-🔗 *Protótipo acessível para agendamento de consultas e serviços do SUS*  
+ *Protótipo acessível para agendamento de consultas e serviços do SUS*  
 Tecnologias: **JavaScript, HTML, CSS**  
-➡️ https://github.com/Manuellasantos/Agendamento-sus
+ https://github.com/Manuellasantos/Agendamento-sus
 
 ---
 
 ###  **Nossas Cores — E-commerce**
-🔗 *Loja fictícia simulando um pequeno e-commerce*  
+*Loja fictícia simulando um pequeno e-commerce*  
 Tecnologias: **JavaScript, HTML, CSS**  
-➡️ https://github.com/Manuellasantos/Nossas-Cores
+https://github.com/Manuellasantos/Nossas-Cores
 
 ---
 
 ##  GitHub Stats  
-![Manu stats](https://github-readme-stats.vercel.app/api?username=Manuellasantos&show_icons=true&theme=rose_pine&icon_color=ff66a3&title_color=ff5fa2&text_color=ffb9d6)
+![Resumo](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Manuellasantos&theme=rose_pine)
 
 ---
 
