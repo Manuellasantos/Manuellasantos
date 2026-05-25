@@ -27,6 +27,7 @@ Desenvolvedora web com paixão por tecnologia, design e criação de projetos qu
 | **Memória Viva — Website** | Website institucional apresentando proposta e funcionalidades | HTML, CSS, JS | [GitHub](https://github.com/Manuellasantos/website-memoria-viva) | [Acessar](https://manuellasantos.github.io/website-memoria-viva/) |
 |  **Agendamento SUS** | Protótipo acessível para agendamento de consultas e serviços do SUS | HTML, CSS, JS | [GitHub](https://github.com/Manuellasantos/Agendamento-sus) | [Acessar](https://manuellasantos.github.io/Agendamento-sus/) |
 |  **Nossas Cores — E-commerce** | Loja fictícia simulando um pequeno e-commerce | HTML, CSS, JS | [GitHub](https://github.com/Manuellasantos/Nossas-Cores) | [Acessar](https://manuellasantos.github.io/Nossas-Cores/) |
+|  **spotify-etl-dashboard** | Data pipeline and interactive dashboard project using Python, pandas, Streamlit, and Plotly  | Python | [GitHub](https://github.com/Manuellasantos/spotify-etl-dashboard)
 
 ##  GitHub Stats  
 ![Resumo](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Manuellasantos&theme=rose_pine)
