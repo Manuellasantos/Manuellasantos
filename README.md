@@ -46,7 +46,6 @@ Desenvolvedora web com paixão por tecnologia, design e criação de projetos qu
 
 ##  Redes Sociais  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ff8dc7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manu-cruz-8439332b6/)
-[![Instagram](https://img.shields.io/badge/Instagram-ff6fb0?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_manusantoscz/)
 
 
 ---
