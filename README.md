@@ -1,53 +1,111 @@
-#  Manuella Santos — Web Developer  
+<div align="center">
 
-Desenvolvedora web com paixão por tecnologia, design e criação de projetos que fazem diferença.  
+<img src="banner.svg" alt="Bem-vindo ao meu GitHub" width="100%" />
 
+# Manuella Santos — Web Developer
 
----
+Desenvolvedora web e estudante de Ciência de Dados, formada em Informática para a Internet pela ETEC Albert Einstein.
+Apaixonada por tecnologia, design, biotecnologia e por projetos que fazem a diferença.
 
-##  Tech Stack
+Amo rosa, animais e sorvete 🌸🐾🍦
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2e93,100:9d4edd&height=3&section=header" width="100%" />
+
+</div>
+
+## Tech Stack
 
 ### **Languages**
-![JS](https://img.shields.io/badge/JavaScript-F7DFE3?style=for-the-badge&logo=javascript&logoColor=000)
-![HTML](https://img.shields.io/badge/HTML5-FFB7D1?style=for-the-badge&logo=html5&logoColor=fff)
-![CSS](https://img.shields.io/badge/CSS3-FF85B3?style=for-the-badge&logo=css3&logoColor=fff)
-![Python](https://img.shields.io/badge/Python-FFB6C1?style=for-the-badge&logo=python&logoColor=000)
+![JS](https://img.shields.io/badge/JavaScript-FF2E93?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0d0d0d)
+![HTML](https://img.shields.io/badge/HTML5-9D4EDD?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d0d0d)
+![CSS](https://img.shields.io/badge/CSS3-FF2E93?style=for-the-badge&logo=css3&logoColor=white&labelColor=0d0d0d)
+![Python](https://img.shields.io/badge/Python-9D4EDD?style=for-the-badge&logo=python&logoColor=white&labelColor=0d0d0d)
 
 ### **Tools**
-![Git](https://img.shields.io/badge/Git-FF9BCF?style=for-the-badge&logo=git&logoColor=fff)
-![VSCode](https://img.shields.io/badge/VS%20Code-FCC7E8?style=for-the-badge&logo=visual-studio-code&logoColor=000)
-![Figma](https://img.shields.io/badge/Figma-F79AC0?style=for-the-badge&logo=figma&logoColor=fff)
+![Git](https://img.shields.io/badge/Git-FF2E93?style=for-the-badge&logo=git&logoColor=white&labelColor=0d0d0d)
+![VSCode](https://img.shields.io/badge/VS%20Code-9D4EDD?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=0d0d0d)
+![Figma](https://img.shields.io/badge/Figma-FF2E93?style=for-the-badge&logo=figma&logoColor=white&labelColor=0d0d0d)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2e93,100:9d4edd&height=3&section=header" width="100%" />
 
-## 📁 **Projetos Principais**
+## **Projetos Principais**
 
-| Projeto | Descrição | Tecnologias | Código | Site |
-|--------|-----------|-------------|--------|-------|
-| **Memória Viva — Website** | Website institucional apresentando proposta e funcionalidades | HTML, CSS, JS | [GitHub](https://github.com/Manuellasantos/website-memoria-viva) | [Acessar](https://manuellasantos.github.io/website-memoria-viva/) |
-|  **Agendamento SUS** | Protótipo acessível para agendamento de consultas e serviços do SUS | HTML, CSS, JS | [GitHub](https://github.com/Manuellasantos/Agendamento-sus) | [Acessar](https://manuellasantos.github.io/Agendamento-sus/) |
-|  **Nossas Cores — E-commerce** | Loja fictícia simulando um pequeno e-commerce | HTML, CSS, JS | [GitHub](https://github.com/Manuellasantos/Nossas-Cores) | [Acessar](https://manuellasantos.github.io/Nossas-Cores/) |
-|  **spotify-etl-dashboard** | Data pipeline and interactive dashboard project using Python, pandas, Streamlit, and Plotly  | Python | [GitHub](https://github.com/Manuellasantos/spotify-etl-dashboard)
-| **App BiT — MVP B2B** | Plataforma corporativa inteligente para atração de talentos focada em diversidade e metas de governança | React, Vite, FastAPI, Python | [GitHub](https://github.com/Manuellasantos/Black-In-Tech) | [Acessar](https://app-bit-hack.vercel.app/login) |
+<div align="center">
+<table>
+  <tr>
+    <td align="center" valign="top">
+      <a href="https://github.com/Manuellasantos/website-memoria-viva"><img width="270" src="cards/memoria-viva.svg" alt="Memória Viva — Website" /></a><br/>
+      <a href="https://github.com/Manuellasantos/website-memoria-viva"><img src="https://img.shields.io/badge/C%C3%B3digo-FF2E93?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d" alt="Código" /></a> <a href="https://manuellasantos.github.io/website-memoria-viva/"><img src="https://img.shields.io/badge/Acessar-9D4EDD?style=for-the-badge&labelColor=0d0d0d" alt="Acessar" /></a>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://github.com/Manuellasantos/spotify-etl-dashboard"><img width="270" src="cards/spotify-etl-dashboard.svg" alt="spotify-etl-dashboard" /></a><br/>
+      <a href="https://github.com/Manuellasantos/spotify-etl-dashboard"><img src="https://img.shields.io/badge/C%C3%B3digo-FF2E93?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d" alt="Código" /></a> <a href="https://spotify-etl-dashboard-ia7bjm5qdexmrvp9zbpkso.streamlit.app/"><img src="https://img.shields.io/badge/Acessar-9D4EDD?style=for-the-badge&labelColor=0d0d0d" alt="Acessar" /></a>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://github.com/Cosmic-Bubble/projetolavanderia"><img width="270" src="cards/projeto-lavanderia.svg" alt="Projeto Lavanderia" /></a><br/>
+      <a href="https://github.com/Cosmic-Bubble/projetolavanderia"><img src="https://img.shields.io/badge/C%C3%B3digo-FF2E93?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d" alt="Código" /></a>
+    </td>
+  </tr>
+</table>
+</div>
 
-##  GitHub Stats  
-![Resumo](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Manuellasantos&theme=rose_pine)
+<div align="center">
+<table>
+  <tr>
+    <td align="center" valign="top">
+      <a href="https://github.com/nanda-marques/nossasCores"><img width="270" src="cards/nossas-cores.svg" alt="Nossas Cores — E-commerce" /></a><br/>
+      <a href="https://github.com/nanda-marques/nossasCores"><img src="https://img.shields.io/badge/C%C3%B3digo-FF2E93?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d" alt="Código" /></a> <a href="https://nossascores.netlify.app/"><img src="https://img.shields.io/badge/Acessar-9D4EDD?style=for-the-badge&labelColor=0d0d0d" alt="Acessar" /></a>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://github.com/Manuellasantos/Agendamento-sus"><img width="270" src="cards/agendamento-sus.svg" alt="Agendamento SUS" /></a><br/>
+      <a href="https://github.com/Manuellasantos/Agendamento-sus"><img src="https://img.shields.io/badge/C%C3%B3digo-FF2E93?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d" alt="Código" /></a> <a href="https://manuellasantos.github.io/Agendamento-sus/"><img src="https://img.shields.io/badge/Acessar-9D4EDD?style=for-the-badge&labelColor=0d0d0d" alt="Acessar" /></a>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://github.com/Manuellasantos/Black-In-Tech"><img width="270" src="cards/app-bit.svg" alt="App BiT — MVP B2B" /></a><br/>
+      <a href="https://github.com/Manuellasantos/Black-In-Tech"><img src="https://img.shields.io/badge/C%C3%B3digo-FF2E93?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d" alt="Código" /></a> <a href="https://app-bit-hack.vercel.app/login"><img src="https://img.shields.io/badge/Acessar-9D4EDD?style=for-the-badge&labelColor=0d0d0d" alt="Acessar" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <a href="https://github.com/Manuellasantos/dashboard-vendas-excel"><img width="270" src="cards/dashboard-vendas-excel.svg" alt="dashboard-vendas-excel" /></a><br/>
+      <a href="https://github.com/Manuellasantos/dashboard-vendas-excel"><img src="https://img.shields.io/badge/C%C3%B3digo-FF2E93?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d" alt="Código" /></a>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://github.com/Manuellasantos/Analise-AWS"><img width="270" src="cards/analise-aws.svg" alt="Analise-AWS" /></a><br/>
+      <a href="https://github.com/Manuellasantos/Analise-AWS"><img src="https://img.shields.io/badge/C%C3%B3digo-FF2E93?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d" alt="Código" /></a>
+    </td>
+  </tr>
+</table>
+</div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2e93,100:9d4edd&height=3&section=header" width="100%" />
+
+<div align="center">
+
+## GitHub Stats
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Manuellasantos&bg_color=0d0d0d&color=ff2e93&line=9d4edd&point=ffffff&area=true&area_color=9d4edd&hide_border=true&hide_title=true" width="100%" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2e93,100:9d4edd&height=3&section=header" width="100%" />
 
 ## Atualmente Estudando
-- SQL
-- Python
-- Acessibilidade web  
-- Banco de dados  
+![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=FF2E93)
+![SQL](https://img.shields.io/badge/SQL-0d0d0d?style=for-the-badge&logo=mysql&logoColor=FF2E93)
+![Databricks](https://img.shields.io/badge/Databricks-0d0d0d?style=for-the-badge&logo=databricks&logoColor=FF2E93)
+![Power BI](https://img.shields.io/badge/Power%20BI-0d0d0d?style=for-the-badge&logo=powerbi&logoColor=FF2E93)
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2e93,100:9d4edd&height=3&section=header" width="100%" />
 
----
+##  Redes Sociais
 
-##  Redes Sociais  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ff8dc7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manu-cruz-8439332b6/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF2E93?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d)](https://www.linkedin.com/in/manu-cruz-8439332b6/)
 
+<div align="center">
 
----
+Obrigada por visitar meu perfil! ✨🌸
 
-Obrigada por visitar meu perfil! ✨🌸  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9d4edd,50:ff2e93,100:0d0d0d&height=120&section=footer" width="100%" />
+
+</div>
