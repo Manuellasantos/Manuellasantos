@@ -23,10 +23,12 @@ Amo rosa, animais e sorvete 🌸🐾🍦
 ## Skills
 
 ### Ciência de dados
-![Python](https://img.shields.io/badge/Python-fdeaf3?style=flat-square) ![Pandas](https://img.shields.io/badge/Pandas-fdeaf3?style=flat-square) ![NumPy](https://img.shields.io/badge/NumPy-fdeaf3?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-fdeaf3?style=flat-square) ![MySQL](https://img.shields.io/badge/MySQL-fdeaf3?style=flat-square) ![Power BI](https://img.shields.io/badge/Power%20BI-fdeaf3?style=flat-square) ![Databricks](https://img.shields.io/badge/Databricks-fdeaf3?style=flat-square) ![ETL](https://img.shields.io/badge/ETL-fdeaf3?style=flat-square)
+
+<img src="cards/skills-dados.svg" alt="Python, Pandas, NumPy, SQL, MySQL, Power BI, Databricks e ETL" width="680" />
 
 ### Outras skills
-![Figma](https://img.shields.io/badge/Figma-fdeaf3?style=flat-square) ![GitHub](https://img.shields.io/badge/GitHub-fdeaf3?style=flat-square) ![HTML](https://img.shields.io/badge/HTML-fdeaf3?style=flat-square) ![CSS](https://img.shields.io/badge/CSS-fdeaf3?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-fdeaf3?style=flat-square)
+
+<img src="cards/skills-outras.svg" alt="Figma, GitHub, HTML, CSS e JavaScript" width="680" />
 
 ## Projetos em destaque
 
@@ -84,7 +86,7 @@ Amo rosa, animais e sorvete 🌸🐾🍦
 
 Ciência de Dados (cursando) · Informática para a Internet, ETEC Albert Einstein
 
-![Python](https://img.shields.io/badge/Python-fdeaf3?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-fdeaf3?style=flat-square) ![Databricks](https://img.shields.io/badge/Databricks-fdeaf3?style=flat-square) ![Power BI](https://img.shields.io/badge/Power%20BI-fdeaf3?style=flat-square)
+<img src="cards/estudos.svg" alt="Estudando: Python, SQL, Databricks e Power BI" width="680" />
 
 <div align="center">
 
