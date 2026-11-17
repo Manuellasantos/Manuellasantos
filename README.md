@@ -46,7 +46,7 @@ Amo rosa, animais e sorvete 🌸🐾🍦
 <div align="center">
 <table>
   <tr>
-    <td align="center" valign="top" width="33%">
+    <td align="center" valign="top" width="50%">
       <img src="https://img.shields.io/badge/%E2%98%85_Destaque-a3245f?style=flat-square" alt="Destaque" />
       <h3><a href="https://github.com/Manuellasantos/spotify-etl-dashboard">Spotify ETL Dashboard</a></h3>
       Pipeline de ETL e dashboard interativo com dados do Spotify.<br/><br/>
@@ -57,7 +57,7 @@ Amo rosa, animais e sorvete 🌸🐾🍦
       <a href="https://github.com/Manuellasantos/spotify-etl-dashboard"><img src="https://img.shields.io/badge/C%C3%B3digo-fdeaf3?style=for-the-badge&logo=github&logoColor=a3245f" alt="Código" /></a>
       <a href="https://spotify-etl-dashboard-ia7bjm5qdexmrvp9zbpkso.streamlit.app/"><img src="https://img.shields.io/badge/Acessar-a3245f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Acessar" /></a>
     </td>
-    <td align="center" valign="top" width="33%">
+    <td align="center" valign="top" width="50%">
       <img src="https://img.shields.io/badge/%E2%98%85_Destaque-a3245f?style=flat-square" alt="Destaque" />
       <h3><a href="https://github.com/Cosmic-Bubble/projetolavanderia">Projeto Lavanderia</a></h3>
       Sistema de previsão de demanda para uma iniciativa comunitária de lavanderia, aplicando matemática, estatística e programação.<br/><br/>
@@ -65,16 +65,28 @@ Amo rosa, animais e sorvete 🌸🐾🍦
       <a href="https://github.com/Cosmic-Bubble/projetolavanderia"><img src="https://img.shields.io/badge/C%C3%B3digo-fdeaf3?style=for-the-badge&logo=github&logoColor=a3245f" alt="Código" /></a>
       <a href="https://www.figma.com/design/0cPfF5D0pHMTzKGJX43wMW/Previs%C3%A3o-de-Demanda?node-id=0-1&t=EXtclxMflOIHIBuU-1"><img src="https://img.shields.io/badge/Figma-fbcfe8?style=for-the-badge&logo=figma&logoColor=a3245f" alt="Design no Figma" /></a>
     </td>
-    <td align="center" valign="top" width="33%">
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="50%">
       <img src="https://img.shields.io/badge/%E2%98%85_Destaque-a3245f?style=flat-square" alt="Destaque" />
       <h3><a href="https://github.com/Manuellasantos/website-memoria-viva">Memória Viva</a></h3>
-      Website Memória Viva.<br/><br/>
+      Site institucional de TCC desenvolvido para apresentar um aplicativo de apoio a pessoas com Alzheimer, utilizando fotos, áudios e mensagens para reforçar lembranças.<br/><br/>
       <img src="https://img.shields.io/badge/HTML-fdeaf3?style=for-the-badge&logo=html5&logoColor=a3245f" alt="HTML" />
       <img src="https://img.shields.io/badge/CSS-fdeaf3?style=for-the-badge&logo=css3&logoColor=a3245f" alt="CSS" />
       <img src="https://img.shields.io/badge/JavaScript-fdeaf3?style=for-the-badge&logo=javascript&logoColor=a3245f" alt="JavaScript" /><br/><br/>
       <a href="https://github.com/Manuellasantos/website-memoria-viva"><img src="https://img.shields.io/badge/C%C3%B3digo-fdeaf3?style=for-the-badge&logo=github&logoColor=a3245f" alt="Código" /></a>
       <a href="https://manuellasantos.github.io/website-memoria-viva/"><img src="https://img.shields.io/badge/Acessar-a3245f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Acessar" /></a>
       <a href="https://www.figma.com/design/AsUHuA4ACKFHGjcwjWy45Y/mem%C3%B3riaviva?node-id=0-1&t=ght77U0Dqdnnndqu-1"><img src="https://img.shields.io/badge/Figma-fbcfe8?style=for-the-badge&logo=figma&logoColor=a3245f" alt="Design no Figma" /></a>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <img src="https://img.shields.io/badge/%E2%98%85_Destaque-a3245f?style=flat-square" alt="Destaque" />
+      <h3><a href="https://github.com/alesslatorre/vagalume">Vagalume</a></h3>
+      Aplicação web de mobilidade urbana que auxilia mulheres na escolha de trajetos a pé, reunindo informações de iluminação pública, pontos de apoio e avaliações colaborativas.<br/><br/>
+      <img src="https://img.shields.io/badge/React-fdeaf3?style=for-the-badge&logo=react&logoColor=a3245f" alt="React" />
+      <img src="https://img.shields.io/badge/Vite-fdeaf3?style=for-the-badge&logo=vite&logoColor=a3245f" alt="Vite" />
+      <img src="https://img.shields.io/badge/Leaflet-fdeaf3?style=for-the-badge&logo=leaflet&logoColor=a3245f" alt="Leaflet" /><br/><br/>
+      <a href="https://github.com/alesslatorre/vagalume"><img src="https://img.shields.io/badge/C%C3%B3digo-fdeaf3?style=for-the-badge&logo=github&logoColor=a3245f" alt="Código" /></a>
+      <a href="https://somosvagalume.vercel.app/"><img src="https://img.shields.io/badge/Acessar-a3245f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Acessar" /></a>
     </td>
   </tr>
 </table>
