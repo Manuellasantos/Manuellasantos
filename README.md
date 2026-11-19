@@ -48,6 +48,22 @@ Amo rosa, animais e sorvete 🌸🐾🍦
   <tr>
     <td align="center" valign="top" width="50%">
       <img src="https://img.shields.io/badge/%E2%98%85_Destaque-a3245f?style=flat-square" alt="Destaque" />
+      <h3><a href="https://github.com/nanda-marques/fic2026-fatec-sebrae-hackeridos">Focinho Amigo 🐾</a></h3>
+      🏆 <b>3º lugar no Fatec Innovation Challenge 2026</b> (<a href="https://fatecsebrae.cps.sp.gov.br/equipe-hackeridos-conquista-o-3o-lugar-no-fatec-innovation-challenge-2026/">ver notícia</a>)<br/>
+      Plataforma web para a ONG Focinho Amigo que centraliza informações, facilita a gestão e divulga animais para adoção.<br/><br/>
+      <img src="https://img.shields.io/badge/React-fdeaf3?style=for-the-badge&logo=react&logoColor=a3245f" alt="React" />
+      <img src="https://img.shields.io/badge/TypeScript-fdeaf3?style=for-the-badge&logo=typescript&logoColor=a3245f" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/Node.js-fdeaf3?style=for-the-badge&logo=nodedotjs&logoColor=a3245f" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Express-fdeaf3?style=for-the-badge&logo=express&logoColor=a3245f" alt="Express" />
+      <img src="https://img.shields.io/badge/Sequelize-fdeaf3?style=for-the-badge&logo=sequelize&logoColor=a3245f" alt="Sequelize" />
+      <img src="https://img.shields.io/badge/Prisma-fdeaf3?style=for-the-badge&logo=prisma&logoColor=a3245f" alt="Prisma" />
+      <img src="https://img.shields.io/badge/MySQL-fdeaf3?style=for-the-badge&logo=mysql&logoColor=a3245f" alt="MySQL" /><br/><br/>
+      <a href="https://github.com/nanda-marques/fic2026-fatec-sebrae-hackeridos"><img src="https://img.shields.io/badge/C%C3%B3digo-fdeaf3?style=for-the-badge&logo=github&logoColor=a3245f" alt="Código" /></a>
+      <a href="https://fic2026-fatec-sebrae-hackeridos.vercel.app/"><img src="https://img.shields.io/badge/Acessar-a3245f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Acessar" /></a>
+      <a href="https://www.figma.com/design/aGcBilq5WAKQM6nO0ikLXo/Focinho-Amigo---Website?node-id=0-1&t=bWXLSsxzfv9XT7YD-1"><img src="https://img.shields.io/badge/Figma-fbcfe8?style=for-the-badge&logo=figma&logoColor=a3245f" alt="Design no Figma" /></a>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <img src="https://img.shields.io/badge/%E2%98%85_Destaque-a3245f?style=flat-square" alt="Destaque" />
       <h3><a href="https://github.com/Manuellasantos/spotify-etl-dashboard">Spotify ETL Dashboard</a></h3>
       Pipeline de ETL e dashboard interativo com dados do Spotify.<br/><br/>
       <img src="https://img.shields.io/badge/Python-fdeaf3?style=for-the-badge&logo=python&logoColor=a3245f" alt="Python" />
@@ -57,6 +73,8 @@ Amo rosa, animais e sorvete 🌸🐾🍦
       <a href="https://github.com/Manuellasantos/spotify-etl-dashboard"><img src="https://img.shields.io/badge/C%C3%B3digo-fdeaf3?style=for-the-badge&logo=github&logoColor=a3245f" alt="Código" /></a>
       <a href="https://spotify-etl-dashboard-ia7bjm5qdexmrvp9zbpkso.streamlit.app/"><img src="https://img.shields.io/badge/Acessar-a3245f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Acessar" /></a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="50%">
       <img src="https://img.shields.io/badge/%E2%98%85_Destaque-a3245f?style=flat-square" alt="Destaque" />
       <h3><a href="https://github.com/Cosmic-Bubble/projetolavanderia">Projeto Lavanderia</a></h3>
@@ -65,8 +83,6 @@ Amo rosa, animais e sorvete 🌸🐾🍦
       <a href="https://github.com/Cosmic-Bubble/projetolavanderia"><img src="https://img.shields.io/badge/C%C3%B3digo-fdeaf3?style=for-the-badge&logo=github&logoColor=a3245f" alt="Código" /></a>
       <a href="https://www.figma.com/design/0cPfF5D0pHMTzKGJX43wMW/Previs%C3%A3o-de-Demanda?node-id=0-1&t=EXtclxMflOIHIBuU-1"><img src="https://img.shields.io/badge/Figma-fbcfe8?style=for-the-badge&logo=figma&logoColor=a3245f" alt="Design no Figma" /></a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="50%">
       <img src="https://img.shields.io/badge/%E2%98%85_Destaque-a3245f?style=flat-square" alt="Destaque" />
       <h3><a href="https://github.com/Manuellasantos/website-memoria-viva">Memória Viva</a></h3>
@@ -78,6 +94,8 @@ Amo rosa, animais e sorvete 🌸🐾🍦
       <a href="https://manuellasantos.github.io/website-memoria-viva/"><img src="https://img.shields.io/badge/Acessar-a3245f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Acessar" /></a>
       <a href="https://www.figma.com/design/AsUHuA4ACKFHGjcwjWy45Y/mem%C3%B3riaviva?node-id=0-1&t=ght77U0Dqdnnndqu-1"><img src="https://img.shields.io/badge/Figma-fbcfe8?style=for-the-badge&logo=figma&logoColor=a3245f" alt="Design no Figma" /></a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="50%">
       <img src="https://img.shields.io/badge/%E2%98%85_Destaque-a3245f?style=flat-square" alt="Destaque" />
       <h3><a href="https://github.com/alesslatorre/vagalume">Vagalume</a></h3>
@@ -88,9 +106,11 @@ Amo rosa, animais e sorvete 🌸🐾🍦
       <a href="https://github.com/alesslatorre/vagalume"><img src="https://img.shields.io/badge/C%C3%B3digo-fdeaf3?style=for-the-badge&logo=github&logoColor=a3245f" alt="Código" /></a>
       <a href="https://somosvagalume.vercel.app/"><img src="https://img.shields.io/badge/Acessar-a3245f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Acessar" /></a>
     </td>
+    <td width="50%"></td>
   </tr>
 </table>
 </div>
+
 
 ### Mais projetos
 
