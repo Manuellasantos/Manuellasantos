@@ -106,7 +106,16 @@ Amo rosa, animais e sorvete 🌸🐾🍦
       <a href="https://github.com/alesslatorre/vagalume"><img src="https://img.shields.io/badge/C%C3%B3digo-fdeaf3?style=for-the-badge&logo=github&logoColor=a3245f" alt="Código" /></a>
       <a href="https://somosvagalume.vercel.app/"><img src="https://img.shields.io/badge/Acessar-a3245f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Acessar" /></a>
     </td>
-    <td width="50%"></td>
+    <td align="center" valign="top" width="50%">
+      <img src="https://img.shields.io/badge/%E2%98%85_Destaque-a3245f?style=flat-square" alt="Destaque" />
+      <h3><a href="https://github.com/Manuellasantos/voebem-analytics">Voebem — Pontualidade de Voos ANAC</a></h3>
+      Pipeline ETL e dashboard interativo no Databricks com dados públicos da ANAC, analisando a pontualidade de mais de 1 milhão de voos com arquitetura medalhão.<br/><br/>
+      <img src="https://img.shields.io/badge/Python-fdeaf3?style=for-the-badge&logo=python&logoColor=a3245f" alt="Python" />
+      <img src="https://img.shields.io/badge/SQL-fdeaf3?style=for-the-badge&logoColor=a3245f" alt="SQL" />
+      <img src="https://img.shields.io/badge/Databricks-fdeaf3?style=for-the-badge&logo=databricks&logoColor=a3245f" alt="Databricks" />
+      <img src="https://img.shields.io/badge/ETL-fdeaf3?style=for-the-badge&logoColor=a3245f" alt="ETL" /><br/><br/>
+      <a href="https://github.com/Manuellasantos/voebem-analytics"><img src="https://img.shields.io/badge/C%C3%B3digo-fdeaf3?style=for-the-badge&logo=github&logoColor=a3245f" alt="Código" /></a>
+    </td>
   </tr>
 </table>
 </div>
