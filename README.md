@@ -103,7 +103,7 @@ Amo rosa, animais e sorvete 🌸🐾🍦
       <img src="https://img.shields.io/badge/React-fdeaf3?style=for-the-badge&logo=react&logoColor=a3245f" alt="React" />
       <img src="https://img.shields.io/badge/Vite-fdeaf3?style=for-the-badge&logo=vite&logoColor=a3245f" alt="Vite" />
       <img src="https://img.shields.io/badge/Leaflet-fdeaf3?style=for-the-badge&logo=leaflet&logoColor=a3245f" alt="Leaflet" /><br/><br/>
-      <a href="https://github.com/alesslatorre/vagalume"><img src="https://img.shields.io/badge/C%C3%B3digo-fdeaf3?style=for-the-badge&logo=github&logoColor=a3245f" alt="Código" /></a>
+      <a href="https://github.com/alesslatorre/somos-vagalume"><img src="https://img.shields.io/badge/C%C3%B3digo-fdeaf3?style=for-the-badge&logo=github&logoColor=a3245f" alt="Código" /></a>
       <a href="https://somosvagalume.vercel.app/"><img src="https://img.shields.io/badge/Acessar-a3245f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Acessar" /></a>
     </td>
     <td align="center" valign="top" width="50%">
